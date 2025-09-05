@@ -1,4 +1,4 @@
-## Hi there 👋
+/him## Hi there 👋
 I am a student at LAB University of Applied Sciences. I am learning programming and I use this GitHub profile to save all my material.
 <!--
 **HenriWin/HenriWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Programming
 - 💬 Ask me about ... Lappland
 - 📫 How to reach me: ... Email
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I like nature
 --> 
