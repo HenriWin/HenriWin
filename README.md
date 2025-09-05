@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email
 - 😄 Pronouns: ... he him
 - ⚡ Fun fact: ... I like nature
---> Now i start learn Git, GitHub and Python
+-->
