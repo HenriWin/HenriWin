@@ -1,4 +1,4 @@
-/him## Hi there 👋
+Hi there 👋
 I am a student at LAB University of Applied Sciences. I am learning programming and I use this GitHub profile to save all my material.
 <!--
 **HenriWin/HenriWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
