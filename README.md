@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Programming
 - 💬 Ask me about ... Lappland
 - 📫 How to reach me: ... Email
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... he him
 - ⚡ Fun fact: ... I like nature
 --> 
